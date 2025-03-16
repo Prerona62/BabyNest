@@ -352,7 +352,7 @@ const styles = StyleSheet.create({
 
 sosButton: { 
   position: "absolute",
-  top: 120, // Adjusted position to match the image better
+  top: 0, // Adjusted position to match the image better
   right: 15,
   paddingHorizontal: 10, 
   paddingVertical: 6,

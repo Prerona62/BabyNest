@@ -251,8 +251,9 @@ const styles = StyleSheet.create({
     fontSize: 20, 
     fontWeight: "bold", 
     color: "#333",
-    marginRight: 5,
-    marginBottom: 5, 
+    marginRight: 2,
+    marginLeft: -90,
+    marginBottom: 20, 
   },
   factCard: { 
     marginBottom: 20, 

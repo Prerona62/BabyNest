@@ -37,7 +37,10 @@ export default function BasicDetailsScreen() {
     setErrors(newErrors);
 
     if (Object.keys(newErrors).length === 0) {
-      navigation.replace("MainTabs");
+      navigation.reset({
+        index: 0,
+        routes: [{ name: "MainTabs" }],
+      });
     }
   };
 

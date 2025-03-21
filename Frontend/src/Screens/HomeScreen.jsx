@@ -251,8 +251,9 @@ const styles = StyleSheet.create({
     fontSize: 20, 
     fontWeight: "bold", 
     color: "#333",
-    marginRight: 5,
-    marginBottom: 5, 
+    marginRight: 2,
+    marginLeft: -90,
+    marginBottom: 20, 
   },
   factCard: { 
     marginBottom: 20, 
@@ -351,7 +352,7 @@ const styles = StyleSheet.create({
 
 sosButton: { 
   position: "absolute",
-  top: 120, // Adjusted position to match the image better
+  top: 0, // Adjusted position to match the image better
   right: 15,
   paddingHorizontal: 10, 
   paddingVertical: 6,

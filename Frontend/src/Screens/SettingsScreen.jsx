@@ -82,7 +82,7 @@ export default function SettingsScreen() {
             </TouchableOpacity>
 
             <TouchableOpacity
-              style={[styles.button, { backgroundColor:'#d4a373', }]}
+              style={[styles.button, { backgroundColor:'#fff3b0', }]}
               onPress={() => { updateTheme('dark'); setModalVisible(false); }}
             >
               <Text style={styles.buttonText}>Dark Theme</Text>

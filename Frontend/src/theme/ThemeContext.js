@@ -38,10 +38,10 @@ const themes = {
     cardBackgroundsecondary: '#e09f3e', 
     iconBackground: '#9e2a2b', 
     iconText: 'fff3b0',
-    button: '#fff3b0', 
+    button: '#9e2a2b', 
     factcardprimary: '#e09f3e', 
     factcardsecondary: '#e09f3e', 
-    appointment: '#9e2a2b',
+    appointment: '#fff3b0',
     iconText:'#FFFFFF' 
   },
   pastel: {

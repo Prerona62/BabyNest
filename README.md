@@ -43,6 +43,8 @@ npm install
 **Start the development server**
 npm start
 
+**This is the beginning of the project
+
 
 ## Usage
 

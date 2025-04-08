@@ -28,6 +28,22 @@
 - **AI & NLP**: Python, LangChain
 - **Database**: SQLite
 
+## 🚀 How to Set Up the Project (Added by Contributor)
+
+Follow these steps to run the app locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Prerona62/BabyNest.git
+   cd BabyNest
+   
+**Install Dependencies**
+npm install
+
+**Start the development server**
+npm start
+
+
 ## Usage
 
 - Open the mobile app on an emulator or device.
